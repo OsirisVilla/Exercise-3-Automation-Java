@@ -1,2 +1,4 @@
-/test-output/target/.settings/
+test-output/
+target/
+.settings/
 
